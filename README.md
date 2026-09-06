@@ -19,7 +19,7 @@ All that is needed to start is a 3d printer and one roll of PLA!
 <br>
 <br>
 **Hints**
--If the parts are too tight and won't fit, I highly recommend using a hair dryer. It has saved me so much time in this build. Simply heat up the part that is too tight, then quickly press it into place. The heated PLA should be soft and fit.
+-If the parts are too tight and won't fit, I highly recommend using a hair dryer. It has saved me so much time in this build. Simply heat up the part that is too tight, then quickly press it into place. The heated PLA should be soft and fit well.<br>
 -The dowels are there to support the parts, not hold them. Use hot glue or superglue to hold two parts together once the dowels are put in. I HIGHLY recommend hot glue as you can easily take the parts apart if something goes wrong.
 
 
