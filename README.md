@@ -3,7 +3,8 @@
 <br>
 <br>
 This project is an aethestic mod to change the Nerf Retaliator into a functional Valorant Prime Vandal replica!<br>
-The final product that I created is seen above in the banner.
+The final product that I created is seen above in the banner. <br>
+DEMO: https://www.youtube.com/shorts/Sd9mUhYmIIE
 <br>
 <br>
 **Features:**<br><br>
