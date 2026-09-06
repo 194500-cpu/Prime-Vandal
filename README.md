@@ -2,17 +2,17 @@
 <img width="3000" height="1599" alt="primesideview" src="https://github.com/user-attachments/assets/d65eb00e-d393-4ed1-a93c-5673c98f5142" />
 <br>
 <br>
-This project is an aethestic mod to change the Nerf Retaliator into a functional Valorant Prime Vandal replica!
+This project is an aethestic mod to change the Nerf Retaliator into a functional Valorant Prime Vandal replica!<br>
 The final product that I created is seen above in the banner.
 <br>
 <br>
-**Features:**
--Moving Bolt that loads standard size foam darts.
--Magazine that holds darts and is removable
--Non-permanent and beginner friendly design
--Completely opensourced files
--Printable even on an A1 mini (180mm x 180mm x 180mm 3d-printer)
--Fun!
+**Features:**<br><br>
+-Moving Bolt that loads standard size foam darts.<br>
+-Magazine that holds darts and is removable<br>
+-Non-permanent and beginner friendly design<br>
+-Completely opensourced files<br>
+-Printable even on an A1 mini (180mm x 180mm x 180mm 3d-printer)<br>
+-Fun!<br>
 <br>
 <br>
 All that is needed to start is a 3d printer and one roll of PLA!
