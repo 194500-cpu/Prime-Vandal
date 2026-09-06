@@ -26,7 +26,8 @@ All that is needed to start is a 3d printer and one roll of PLA!
 
 **BUILD INSTRUCTIONS**
 1) Disassemble the Nerf Retaliator. If you are unsure on hwo to do this, check out this video: https://www.youtube.com/watch?v=felUcKv64l4
-2) Once you have taken all the components out of the retaliator, locate a metal screw holding the priming slide in place. Unscrew it and take off the slide. <img width="870" height="400" alt="image" src="https://github.com/user-attachments/assets/7a44d06f-78f9-459c-9592-2841b67eb409" />
+2) Once you have taken all the components out of the retaliator, locate a metal screw holding the priming slide in place. Unscrew it and take off the slide. <br>
+<img width="870" height="400" alt="image" src="https://github.com/user-attachments/assets/7a44d06f-78f9-459c-9592-2841b67eb409" />
 3) Take the bolt (https://github.com/194500-cpu/Prime-Vandal/blob/main/STL-Files/bolt.stl) and screw it into one of the slots where the slide was held in place with the same screw that held the slide.
 4) Re-assemble the retaliator. Check out the video in step 1 if unsure.
 5) Connect Muzzle 1 (https://github.com/194500-cpu/Prime-Vandal/blob/main/STL-Files/muzzle1.stl) to Muzzle 2 (https://github.com/194500-cpu/Prime-Vandal/blob/main/STL-Files/muzzle2.stl) using the muzzle dowel (https://github.com/194500-cpu/Prime-Vandal/blob/main/STL-Files/muzzledowel.stl). You will need to print 3 muzzle dowels.
